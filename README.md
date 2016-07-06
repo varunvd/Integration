@@ -31,12 +31,12 @@ The Program standard form of LPP is going to return the values in the standard f
 The Program simplex.py is used to evaluate the objective function and return the maximum value of the objective function.The constraints must be in the standard form.
 Example :-
 
-Enter the objective function
-z-2x1-2x2-0x3
-Enter the number of constraints
-2
-3x1+5x2+3x3<=5
-4x1+2x2+5x3<=8
-Objective Function Value3.33333333333
-x1 1.66666666667
-s1 1.33333333333
+       Enter the objective function
+       z-2x1-2x2-0x3
+       Enter the number of constraints
+       2
+       3x1+5x2+3x3<=5
+       4x1+2x2+5x3<=8
+       Objective Function Value3.33333333333
+       x1 1.66666666667
+       s1 1.33333333333
