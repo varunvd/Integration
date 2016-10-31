@@ -1,4 +1,4 @@
-#!/usr/bin/python
+
 from math import sin, cos, tan, sqrt,log
 print "This intergration program works for dx function with expression having only one variable x"
 a=float(raw_input("enter the lower limit\n"));
