@@ -1,6 +1,6 @@
 # Python
 
-This program is going to perform definite integraion it requires the user to specify the upper limit, the lower limit and expression.
+This program is going to perform definite integration it requires the user to specify the upper limit, the lower limit and expression.
 It is written in python and requires the user to provide the input in a corresponding manner.
 
 Example : -
